@@ -33,7 +33,7 @@ export default createRouter({
             component: CreateArticle,
         },
         {
-            'name'   : 'login',
+            name     : 'login',
             path     : '/login',
             component: Login,
         },
