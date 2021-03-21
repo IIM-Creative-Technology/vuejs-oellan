@@ -27,3 +27,9 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Authors
+-------
+
+* Arthur TESSE
+* Florian BILI
